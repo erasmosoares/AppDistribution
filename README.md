@@ -11,8 +11,8 @@ This repository contains the distribution assets for some apps and tools.
 # Releases
 
   * [CoinFac 1.0.3](https://github.com/erasmosoares/AppDistribution/releases/tag/CoinFac_1.0.3).
-  * [CoinFac 1.0.4: Latest stable release](https://github.com/erasmosoares/AppDistribution/releases/tag/CoinFac_1.0.4).
-
+  * [CoinFac 1.0.4](https://github.com/erasmosoares/AppDistribution/releases/tag/CoinFac_1.0.4).
+  * [CoinFac 1.1.0: Latest stable release](https://github.com/erasmosoares/AppDistribution/releases/tag/CoinFac_1.1.0)
 # Usage
 
 To download the app, please visit the releases page and select the appropriate version for your operating system.
