@@ -20,7 +20,7 @@ This repository contains the distribution assets for some apps and tools.
 To download the app, please visit the releases page and select the appropriate version for your operating system.
 
 * For Mac users, Unzip the release file and drag the dmg file to the app folder.
-* For windows users click the install file ( maybe windows will detecte as a non safe executable, the app is not yet registered so just ignore it, will be fixed in the future.)
+* For windows users click the installation file, maybe Windows Defender SmartScreen might flag the app because it’s not commonly downloaded and does not come from recognized channels (e.g., Microsoft Store).
 
 # Support
 
