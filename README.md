@@ -4,7 +4,7 @@ This repository contains the distribution assets for some apps and tools.
 
 # Description
 
-* [CoinFac](https://commerce-vercel-5ow1ctbmo-erasmosoares.vercel.app). 
+* [CoinFac](https://commerce-vercel-ten.vercel.app). 
   
   * CoinFac is a financial management application designed to help users track their expenses, manage subscriptions, and plan their finances effectively.
 
@@ -18,6 +18,9 @@ This repository contains the distribution assets for some apps and tools.
 # Usage
 
 To download the app, please visit the releases page and select the appropriate version for your operating system.
+
+* For Mac users, Unzip the release file and drag the dmg file to the app folder.
+* For windows users click the install file ( maybe windows will detecte as a non safe executable, the app is not yet registered so just ignore it, will be fixed in the future.)
 
 # Support
 
